@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA13979-843B-4951-BEFA-18E9355B15C4}|SquidGame_2.csproj|C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA13979-843B-4951-BEFA-18E9355B15C4}|SquidGame_2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA13979-843B-4951-BEFA-18E9355B15C4}|SquidGame_2.csproj|c:\\users\\ziyis\\onedrive\\desktop\\squidgame_2\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA13979-843B-4951-BEFA-18E9355B15C4}|SquidGame_2.csproj|solutionrelative:giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA13979-843B-4951-BEFA-18E9355B15C4}|SquidGame_2.csproj|C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA13979-843B-4951-BEFA-18E9355B15C4}|SquidGame_2.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA13979-843B-4951-BEFA-18E9355B15C4}|SquidGame_2.csproj|C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DA13979-843B-4951-BEFA-18E9355B15C4}|SquidGame_2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA13979-843B-4951-BEFA-18E9355B15C4}|SquidGame_2.csproj|c:\\users\\ziyis\\onedrive\\desktop\\squidgame_2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7DA13979-843B-4951-BEFA-18E9355B15C4}|SquidGame_2.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SquidGame_2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA13979-843B-4951-BEFA-18E9355B15C4}|SquidGame_2.csproj|c:\\users\\ziyis\\onedrive\\desktop\\squidgame_2\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7DA13979-843B-4951-BEFA-18E9355B15C4}|SquidGame_2.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA13979-843B-4951-BEFA-18E9355B15C4}|SquidGame_2.csproj|c:\\users\\ziyis\\onedrive\\desktop\\squidgame_2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SquidGame_2",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\SquidGame_2.csproj",
+              "RelativeDocumentMoniker": "SquidGame_2.csproj",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\SquidGame_2.csproj",
+              "RelativeToolTip": "SquidGame_2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-23T14:46:59.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-23T14:46:53.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-23T14:46:49.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAF4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:22:58.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:08:53.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Giocatore.cs",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\Giocatore.cs",
+              "RelativeDocumentMoniker": "Giocatore.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\Giocatore.cs",
+              "RelativeToolTip": "Giocatore.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:23:55.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\SquidGame_2\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:22:55.621Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
